@@ -7,7 +7,7 @@
       "username": "Squeezy Jibs",
       "email": "squeezy@jibs.hog"
     },
-    "user2":
+  "user2":
     {
       "id": 2,
       "name": "Dillon",
@@ -15,7 +15,7 @@
       "username": "Pencil Pusher",
       "email": "dil@lon.com"
     },
-    "haroldstevens":
+  "haroldstevens":
     {
       "password": "limatangowhiskey",
       "id": 3,
