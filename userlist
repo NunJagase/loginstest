@@ -1,4 +1,4 @@
-{
+[
   "user1":
     {
       "id": 1,
@@ -23,6 +23,5 @@
       "lastName": "Stevens",
       "username": "haroldStevens",
       "email": "harold@stevens.com"
-    }
-    
-}
+    }   
+]
