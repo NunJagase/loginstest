@@ -1,18 +1,28 @@
 {
   "user1":
     {
-    "id": 1,
-    "name": "Harry",
-    "lastName": "Pothair",
-    "username": "Squeezy Jibs",
-    "email": "squeezy@jibs.hog"
+      "id": 1,
+      "name": "Harry",
+      "lastName": "Pothair",
+      "username": "Squeezy Jibs",
+      "email": "squeezy@jibs.hog"
     },
     "user2":
     {
-    "id": 2,
-    "name": "Dillon",
-    "lastName": "McSunnovabich",
-    "username": "Pencil Pusher",
-    "email": "dil@lon.com"
+      "id": 2,
+      "name": "Dillon",
+      "lastName": "McSunnovabich",
+      "username": "Pencil Pusher",
+      "email": "dil@lon.com"
     }
+    "haroldstevens":
+    {
+      "password": "limatangowhiskey",
+      "id": 3,
+      "name": "Harold",
+      "lastName": "Stevens",
+      "username": "haroldStevens",
+      "email": "harold@stevens.com"
+    }
+    
 }
