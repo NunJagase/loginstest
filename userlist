@@ -1,19 +1,21 @@
 {
-  "user1":
+  "maltepenisman":
     {
       "id": 1,
       "name": "Harry",
       "lastName": "Pothair",
       "username": "Squeezy Jibs",
-      "email": "squeezy@jibs.hog"
+      "email": "squeezy@jibs.hog",
+      "password": "jegharenlillepp"
     },
-  "user2":
+  "michaelkøresko":
     {
       "id": 2,
       "name": "Dillon",
       "lastName": "McSunnovabich",
       "username": "Pencil Pusher",
-      "email": "dil@lon.com"
+      "email": "dil@lon.com",
+      "password": "jegerhøj"
     },
   "haroldstevens":
     {
@@ -23,5 +25,13 @@
       "lastName": "Stevens",
       "username": "haroldStevens",
       "email": "harold@stevens.com"
-    }   
+    },
+   "admin":
+   {
+      "password": "admin",
+      "name": "Overlord",
+      "lastName": "Bravo",
+      "username": "Overwatch",
+      "email": "admin@gov.gov"
+   }
 }
