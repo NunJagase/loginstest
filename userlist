@@ -29,6 +29,7 @@
    "admin":
    {
       "password": "admin",
+      "id": 0,
       "name": "Overlord",
       "lastName": "Bravo",
       "username": "Overwatch",
